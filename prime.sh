@@ -2,7 +2,7 @@ count=0
 
 while(true)
 do
-	num=$(((RANDOM%9999)+1000))
+	num=$(((RANDOM%9000)+1000))
 
 
 	for((i=2;i<=$(($num/2));i++))
