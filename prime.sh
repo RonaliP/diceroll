@@ -13,9 +13,10 @@ do
 		then
 		echo "NOT YET"
 		break
+
 		fi
 	done
-			echo "$num =GOT A PRIME NUMBER"
+			echo "GOT IT!!$num =GOT A PRIME NUMBER"
 			break
 
 done
